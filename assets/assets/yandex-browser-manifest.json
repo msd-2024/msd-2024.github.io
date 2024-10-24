@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "api_version": 1,
+  "layout": {
+    "logo": "yandex-browser-50x50.png",
+    "color": "#fff",
+    "show_title": true
+  },
+  "name": "TonyAI Wallpaper",
+  "short_name": "AI Wallpaper: PixArt",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Upgrade the iphone's wallpaper with a 4K+ wallpaper created by TonyAI",
+  "scope": "/",
+  "theme_color": "#efeeff",
+  "background_color": "#efeeff"
+}
